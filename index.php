@@ -120,7 +120,7 @@
       display: block;
       width: 50%;
       margin-top: 5%;
-      color:#ffffffbb; 
+      color:##2e2424bb; 
       
       margin-left: 40%;
   }
@@ -134,14 +134,14 @@
       border:2px solid black;
   }
   #table1{
-    color:#16fab2;
+    color:#ffffff;
     border-style:solid;
     font-size:25px;
     width:70%;
     font-weight: bold;
     margin-top:3%;
     text-align: center;
-    background-color: #df7be391;
+    background-color: #36263691;
   }
   th,td{
       padding: 10px;
